@@ -9,7 +9,7 @@ const Home = () => {
 
   // optional chaining; data exisits store in thoughts, data doesn't exisit store empty array
   const thoughts = data?.thoughts || [];
-  console.log(thoughts);
+  // console.log(thoughts);
 
   return (
     <main>
