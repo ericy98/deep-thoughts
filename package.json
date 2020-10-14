@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ericy98/deep-thoughts#readme",
   "dependencies": {
     "if-env": "^1.0.4",
+    "jwt-decode": "^3.0.0",
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
